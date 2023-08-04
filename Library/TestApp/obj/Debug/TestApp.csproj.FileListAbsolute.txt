@@ -1,0 +1,13 @@
+D:\sperljo\Library\TestApp\bin\Debug\TestApp.exe.config
+D:\sperljo\Library\TestApp\bin\Debug\TestApp.exe
+D:\sperljo\Library\TestApp\bin\Debug\TestApp.pdb
+D:\sperljo\Library\TestApp\bin\Debug\FileHelpers.dll
+D:\sperljo\Library\TestApp\bin\Debug\Library.dll
+D:\sperljo\Library\TestApp\bin\Debug\Library.pdb
+D:\sperljo\Library\TestApp\bin\Debug\FileHelpers.xml
+D:\sperljo\Library\TestApp\obj\Debug\TestApp.csproj.AssemblyReference.cache
+D:\sperljo\Library\TestApp\obj\Debug\TestApp.csproj.SuggestedBindingRedirects.cache
+D:\sperljo\Library\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+D:\sperljo\Library\TestApp\obj\Debug\TestApp.csproj.CopyComplete
+D:\sperljo\Library\TestApp\obj\Debug\TestApp.exe
+D:\sperljo\Library\TestApp\obj\Debug\TestApp.pdb
